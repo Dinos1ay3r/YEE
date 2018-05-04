@@ -1,0 +1,6 @@
+Create table Table_2 (
+	FirstName varchar(255)
+	LastName int,
+	PRIMARY KEY (First Name)
+	Foriegn Key (ID)
+	);

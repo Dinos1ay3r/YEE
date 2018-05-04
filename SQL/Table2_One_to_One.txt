@@ -1,0 +1,6 @@
+Create table Table_2 (
+	ID int,
+	CountryofBirth varchar,
+	PRIMARY KEY (ID)
+	Foriegn Key (First Name)
+	);

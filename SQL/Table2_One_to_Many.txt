@@ -1,0 +1,7 @@
+Create table Table_4 (
+	height Varchar(255) NOT NULL,
+	weight varchar(255)
+	age int,
+	PRIMARY KEY (height)
+	Foriegn Key (ID)
+	);

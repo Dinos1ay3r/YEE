@@ -1,0 +1,7 @@
+Create Table Table_3 (
+	ID INT not null,
+	LastName Varchar(255) NOT NULL,
+	FirstName varchar(255),
+	PRIMARY KEY (ID)
+	Foriegn Key (weight)
+);
